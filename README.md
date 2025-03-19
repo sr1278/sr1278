@@ -1,5 +1,6 @@
-                                                 Hi, I'm Anu! 
-                           I'm a data analyst / business analyst, Salesforce certified and CSM. 
+                                                      Hi, I'm Anu! 
+
+I'm a data analyst / business analyst, Salesforce certified, and CSM. 
 
 About Me
 
